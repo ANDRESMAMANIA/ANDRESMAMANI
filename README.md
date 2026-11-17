@@ -1,12 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=30&duration=7500&pause=3000&center=true&vCenter=true&lines=Hola!+👋+soy+Andres+Mamani!..."
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=7AF79A&size=30&duration=7500&pause=3000&center=true&vCenter=true&width=500&lines=Hola%21+%F0%9F%91%8B+soy+Andres+Mamani%21"
+    alt="Typing SVG"
+  />
+</a>
+<br />
   <br />
-  <a href="https://noxy-bit.github.io/portafolio-noxy/">
+  <a href="">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=3000&color=7AF79A&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+Sistema+%40+FICCT+-+UAGRM;Desarrollor+de+Software+%7C+IA+Ag%C3%A9ntica+%7C+Ciberseguridad"
       alt="Typing SVG"
